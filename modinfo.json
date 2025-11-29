@@ -29,14 +29,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
-    "name": "HoneyLib",
-    "author": "buzzbb",
-    "version": "1.1.4",
-    "git_path": "BzzzThe18th/HoneyLib",
-    "group": "Libraries",
-    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.4/HoneyLib.dll"
-  },
-  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "version": "12.0.3",
