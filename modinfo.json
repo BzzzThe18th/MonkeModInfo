@@ -1,5 +1,13 @@
 [
   {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.23.4",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -54,14 +62,6 @@
     "git_path": "HuskyGT/TicTacToe",
     "group": "Gameplay",
     "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
-  },
-  {
-    "name": "Utilla",
-    "author": "bobbievr",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
-    "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
   },
   {
     "name": "bHaptics",
