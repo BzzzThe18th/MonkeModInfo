@@ -64,6 +64,14 @@
     "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
   },
   {
+    "name": "Utilla",
+    "author": "bobbievr",
+    "version": "1.6.14",
+    "git_path": "legoandmars/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+  },
+  {
     "name": "bHaptics",
     "author": "Florian Fahrenberger",
     "version": "3.0.1",
