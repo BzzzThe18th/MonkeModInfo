@@ -53,6 +53,17 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
+    "name": "Tic Tac Toe",
+    "author": "Husky",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "HuskyGT/TicTacToe",
+    "group": "Gameplay",
+    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
+  },
+  {
     "name": "Utilla",
     "author": "bobbievr",
     "version": "1.6.14",
