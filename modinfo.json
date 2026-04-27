@@ -8,12 +8,32 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip"
   },
   {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": [
+      "Extenject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+  },
+  {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.1.5",
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.5/HoneyLib.dll"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
     "name": "TMPLoader",
