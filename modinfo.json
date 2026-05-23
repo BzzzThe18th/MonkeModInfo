@@ -37,6 +37,14 @@
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.5/HoneyLib.dll"
   },
   {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
     "name": "TMPLoader",
     "author": "ahauntedarmy",
     "version": "1.0.2",
